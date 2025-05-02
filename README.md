@@ -34,7 +34,6 @@ This tool is ideal for roommates, friends on trips, or any group looking to mana
 
 
 
-![Output](Screenshot 2025-05-02 230909.png)
 
 
 
