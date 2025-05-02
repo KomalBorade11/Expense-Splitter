@@ -25,6 +25,15 @@ This tool is ideal for roommates, friends on trips, or any group looking to mana
 
 ##  Screenshots 
 
-*You can add these later by uploading images in a `screenshots` folder and referencing them like:*
+### Menu Screen
+![Menu](Screenshot 2025-05-02 230548.png)
+
+### Output Example
+![Output](Screenshot 2025-05-02 230847.png)
+
+
+
+![Output](Screenshot 2025-05-02 230909.png)
+
 
 
