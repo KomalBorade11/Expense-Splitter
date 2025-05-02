@@ -26,10 +26,11 @@ This tool is ideal for roommates, friends on trips, or any group looking to mana
 ##  Screenshots 
 
 ### Menu Screen
-![Menu](Screenshot 2025-05-02 230548.png)
+![Menu](main.png)
 
 ### Output Example
-![Output](Screenshot 2025-05-02 230847.png)
+![Output 1](output1.png)
+![Output 2](output2.png)
 
 
 
